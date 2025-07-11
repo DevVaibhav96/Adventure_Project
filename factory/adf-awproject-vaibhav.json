@@ -1,0 +1,9 @@
+{
+	"name": "adf-awproject-vaibhav",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "4ce6ea11-787e-41a2-893c-d4b90371107f",
+		"tenantId": "80aca00d-a563-4e49-a834-cbdbf0df2967"
+	}
+}
